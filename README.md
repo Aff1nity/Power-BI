@@ -1,6 +1,6 @@
 # Power-BI
 
-Power BI is a powerful business analytics tool that enables us to visualize and analyze data in a simple and interactive way. Learning how to use Power BI can be immensely useful for data analysis purposes, as it allows users to easily transform raw data into meaningful insights that can be used to make informed business decisions. 
+Power BI is a powerful business analytics tool that enables us to visualize and analyze data in a simple and interactive way. Learning how to use Power BI can be immensely useful for data analysis purposes, as it allows us to easily transform raw data into meaningful insights that can be used to make informed business decisions. 
 
 ## First Project:
 
@@ -16,15 +16,15 @@ Breakdown:
 
 -Average salary by job title: A bar chart or table can be created to show the average salary for each job title.
 
-Average salary by gender: A visualization can be created to show the average salary for male and female respondents.
+-Average salary by gender: A visualization can be created to show the average salary for male and female respondents.
 
-Preferred programming language: A visualization can be created to show the most popular programming language among the survey takers.
+-Preferred programming language: A visualization can be created to show the most popular programming language among the survey takers.
 
-Salary happiness: A visualization can be created to show the level of happiness of the respondents with their current salary.
+-Salary happiness: A visualization can be created to show the level of happiness of the respondents with their current salary.
 
-Work/life balance happiness: A visualization can be created to show the level of happiness of the respondents with their work/life balance.
+-Work/life balance happiness: A visualization can be created to show the level of happiness of the respondents with their work/life balance.
 
-Count of survey takers: A simple visualization can be created to show the total number of survey takers.
+-Count of survey takers: A simple visualization can be created to show the total number of survey takers.
 
-Average age of survey takers: A visualization can be created to show the average age of the survey takers.
+-Average age of survey takers: A visualization can be created to show the average age of the survey takers.
 ```
